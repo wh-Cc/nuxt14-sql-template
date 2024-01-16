@@ -1,0 +1,1 @@
+# nuxt14-sql-template
